@@ -1,4 +1,4 @@
-USE burgers_db;
+USE kaomo30az6ziirxy;
 
 DROP TABLE IF EXISTS burgers;
 
