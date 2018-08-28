@@ -1,0 +1,18 @@
+#leftSide {
+    float: left;
+    display: block
+}
+
+
+#rightSide {
+    float: right;
+    display: block;
+}
+
+html {
+    background-color: brown
+}
+
+.topMargin {
+    margin-top: 45px;
+}

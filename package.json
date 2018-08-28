@@ -1,0 +1,29 @@
+{
+    "name": "burger-eater",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SeanMCooper"
+    },
+    "keywords": [
+        "burgers"
+    ],
+    "author": "Sean Cooper",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SeanMCooper/Burger-Eater/blob/master/README.md"
+    },
+    "homepage": "https://github.com/SeanMCooper/Burger-Eater/blob/master/README.md",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.15.4",
+        "express-handlebars": "^3.0.0",
+        "method-override": "^2.3.9",
+        "mysql": "^2.14.1"
+    }
+}
